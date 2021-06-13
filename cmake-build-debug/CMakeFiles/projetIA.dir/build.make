@@ -128,12 +128,68 @@ CMakeFiles/projetIA.dir/src/Image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/projetIA.dir/src/Image.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/long/CLionProjects/projetIA/src/Image.cpp -o CMakeFiles/projetIA.dir/src/Image.cpp.s
 
+CMakeFiles/projetIA.dir/src/Perceptron.cpp.o: CMakeFiles/projetIA.dir/flags.make
+CMakeFiles/projetIA.dir/src/Perceptron.cpp.o: ../src/Perceptron.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/projetIA.dir/src/Perceptron.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/projetIA.dir/src/Perceptron.cpp.o -c /Users/long/CLionProjects/projetIA/src/Perceptron.cpp
+
+CMakeFiles/projetIA.dir/src/Perceptron.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/projetIA.dir/src/Perceptron.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/long/CLionProjects/projetIA/src/Perceptron.cpp > CMakeFiles/projetIA.dir/src/Perceptron.cpp.i
+
+CMakeFiles/projetIA.dir/src/Perceptron.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/projetIA.dir/src/Perceptron.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/long/CLionProjects/projetIA/src/Perceptron.cpp -o CMakeFiles/projetIA.dir/src/Perceptron.cpp.s
+
+CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o: CMakeFiles/projetIA.dir/flags.make
+CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o: ../src/Fonction_activation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o -c /Users/long/CLionProjects/projetIA/src/Fonction_activation.cpp
+
+CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/long/CLionProjects/projetIA/src/Fonction_activation.cpp > CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.i
+
+CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/long/CLionProjects/projetIA/src/Fonction_activation.cpp -o CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.s
+
+CMakeFiles/projetIA.dir/src/Tanh.cpp.o: CMakeFiles/projetIA.dir/flags.make
+CMakeFiles/projetIA.dir/src/Tanh.cpp.o: ../src/Tanh.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/projetIA.dir/src/Tanh.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/projetIA.dir/src/Tanh.cpp.o -c /Users/long/CLionProjects/projetIA/src/Tanh.cpp
+
+CMakeFiles/projetIA.dir/src/Tanh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/projetIA.dir/src/Tanh.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/long/CLionProjects/projetIA/src/Tanh.cpp > CMakeFiles/projetIA.dir/src/Tanh.cpp.i
+
+CMakeFiles/projetIA.dir/src/Tanh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/projetIA.dir/src/Tanh.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/long/CLionProjects/projetIA/src/Tanh.cpp -o CMakeFiles/projetIA.dir/src/Tanh.cpp.s
+
+CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o: CMakeFiles/projetIA.dir/flags.make
+CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o: ../src/Sigmoide.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o -c /Users/long/CLionProjects/projetIA/src/Sigmoide.cpp
+
+CMakeFiles/projetIA.dir/src/Sigmoide.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/projetIA.dir/src/Sigmoide.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/long/CLionProjects/projetIA/src/Sigmoide.cpp > CMakeFiles/projetIA.dir/src/Sigmoide.cpp.i
+
+CMakeFiles/projetIA.dir/src/Sigmoide.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/projetIA.dir/src/Sigmoide.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/long/CLionProjects/projetIA/src/Sigmoide.cpp -o CMakeFiles/projetIA.dir/src/Sigmoide.cpp.s
+
 # Object files for target projetIA
 projetIA_OBJECTS = \
 "CMakeFiles/projetIA.dir/src/main.cpp.o" \
 "CMakeFiles/projetIA.dir/src/Input.cpp.o" \
 "CMakeFiles/projetIA.dir/src/Iris.cpp.o" \
-"CMakeFiles/projetIA.dir/src/Image.cpp.o"
+"CMakeFiles/projetIA.dir/src/Image.cpp.o" \
+"CMakeFiles/projetIA.dir/src/Perceptron.cpp.o" \
+"CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o" \
+"CMakeFiles/projetIA.dir/src/Tanh.cpp.o" \
+"CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o"
 
 # External object files for target projetIA
 projetIA_EXTERNAL_OBJECTS =
@@ -142,9 +198,13 @@ projetIA: CMakeFiles/projetIA.dir/src/main.cpp.o
 projetIA: CMakeFiles/projetIA.dir/src/Input.cpp.o
 projetIA: CMakeFiles/projetIA.dir/src/Iris.cpp.o
 projetIA: CMakeFiles/projetIA.dir/src/Image.cpp.o
+projetIA: CMakeFiles/projetIA.dir/src/Perceptron.cpp.o
+projetIA: CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o
+projetIA: CMakeFiles/projetIA.dir/src/Tanh.cpp.o
+projetIA: CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o
 projetIA: CMakeFiles/projetIA.dir/build.make
 projetIA: CMakeFiles/projetIA.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable projetIA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable projetIA"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/projetIA.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Fonction_activation.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Fonction_activation.h">
+			<Option target="projetIA"/>
+		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Image.cpp">
 			<Option target="projetIA"/>
 		</Unit>
@@ -96,6 +102,24 @@
 			<Option target="projetIA"/>
 		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Iris.h">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron.h">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Sigmoide.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Sigmoide.h">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Tanh.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Tanh.h">
 			<Option target="projetIA"/>
 		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/main.cpp">

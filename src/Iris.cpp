@@ -29,7 +29,7 @@ Iris::Iris(int index) {
             set_label('0');
         }
     } else {
-        cout << "ERREUR: File lecture" << endl;
+        cout << "ERROR: label iris file lecture" << endl;
     }
     cout<<"label : "<<get_label()<<endl;
     iris_input.close();
