@@ -1,4 +1,49 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/long/CLionProjects/projetIA
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/long/CLionProjects/projetIA/cmake-build-debug
+"C:\Users\DO THU HANG\AppData\Local\JetBrains\CLion2021.1\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/Downloads/Doc/Git/projetIA
+-- The C compiler identification is GNU 10.2.0
+-- The CXX compiler identification is GNU 10.2.0
+-- Detecting C compiler ABI info
+CMake Error at /cygdrive/c/Users/DO THU HANG/AppData/Local/JetBrains/CLion2021.1/cygwin_cmake/share/cmake-3.19.2/Modules/CMakeDetermineCompilerABI.cmake:48 (try_compile):
+  Failed to open
+
+    /cygdrive/e/Downloads/Doc/Git/projetIA/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt
+
+  Permission denied
+Call Stack (most recent call first):
+  /cygdrive/c/Users/DO THU HANG/AppData/Local/JetBrains/CLion2021.1/cygwin_cmake/share/cmake-3.19.2/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /usr/bin/cc
+CMake Error at /cygdrive/c/Users/DO THU HANG/AppData/Local/JetBrains/CLion2021.1/cygwin_cmake/share/cmake-3.19.2/Modules/CMakeTestCCompiler.cmake:53 (try_compile):
+  Failed to open
+
+    /cygdrive/e/Downloads/Doc/Git/projetIA/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt
+
+  Permission denied
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Check for working C compiler: /usr/bin/cc - broken
+CMake Error at /cygdrive/c/Users/DO THU HANG/AppData/Local/JetBrains/CLion2021.1/cygwin_cmake/share/cmake-3.19.2/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/e/Downloads/Doc/Git/projetIA/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/e/Downloads/Doc/Git/projetIA/cmake-build-debug/CMakeFiles/CMakeError.log".

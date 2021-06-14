@@ -12,3 +12,12 @@ int main() {
     cout<<image.get_label()<<endl;
     return 0;
 }
+
+// test Perceptron
+//int main() {
+//    Tanh* f = new Tanh();
+//    Perceptron* p = new Perceptron(12, f, '1');
+//    for (int i=0; i<12; i++) {
+//        cout << i << ": " << p->get_poids(i) << '\n';
+//    }
+//}
