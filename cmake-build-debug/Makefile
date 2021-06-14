@@ -142,6 +142,33 @@ projetIA/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/build
 .PHONY : projetIA/fast
 
+src/Fonction_activation.o: src/Fonction_activation.cpp.o
+
+.PHONY : src/Fonction_activation.o
+
+# target to build an object file
+src/Fonction_activation.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.o
+.PHONY : src/Fonction_activation.cpp.o
+
+src/Fonction_activation.i: src/Fonction_activation.cpp.i
+
+.PHONY : src/Fonction_activation.i
+
+# target to preprocess a source file
+src/Fonction_activation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.i
+.PHONY : src/Fonction_activation.cpp.i
+
+src/Fonction_activation.s: src/Fonction_activation.cpp.s
+
+.PHONY : src/Fonction_activation.s
+
+# target to generate assembly for a file
+src/Fonction_activation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Fonction_activation.cpp.s
+.PHONY : src/Fonction_activation.cpp.s
+
 src/Image.o: src/Image.cpp.o
 
 .PHONY : src/Image.o
@@ -223,6 +250,87 @@ src/Iris.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Iris.cpp.s
 .PHONY : src/Iris.cpp.s
 
+src/Perceptron.o: src/Perceptron.cpp.o
+
+.PHONY : src/Perceptron.o
+
+# target to build an object file
+src/Perceptron.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.o
+.PHONY : src/Perceptron.cpp.o
+
+src/Perceptron.i: src/Perceptron.cpp.i
+
+.PHONY : src/Perceptron.i
+
+# target to preprocess a source file
+src/Perceptron.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.i
+.PHONY : src/Perceptron.cpp.i
+
+src/Perceptron.s: src/Perceptron.cpp.s
+
+.PHONY : src/Perceptron.s
+
+# target to generate assembly for a file
+src/Perceptron.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.s
+.PHONY : src/Perceptron.cpp.s
+
+src/Sigmoide.o: src/Sigmoide.cpp.o
+
+.PHONY : src/Sigmoide.o
+
+# target to build an object file
+src/Sigmoide.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o
+.PHONY : src/Sigmoide.cpp.o
+
+src/Sigmoide.i: src/Sigmoide.cpp.i
+
+.PHONY : src/Sigmoide.i
+
+# target to preprocess a source file
+src/Sigmoide.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Sigmoide.cpp.i
+.PHONY : src/Sigmoide.cpp.i
+
+src/Sigmoide.s: src/Sigmoide.cpp.s
+
+.PHONY : src/Sigmoide.s
+
+# target to generate assembly for a file
+src/Sigmoide.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Sigmoide.cpp.s
+.PHONY : src/Sigmoide.cpp.s
+
+src/Tanh.o: src/Tanh.cpp.o
+
+.PHONY : src/Tanh.o
+
+# target to build an object file
+src/Tanh.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Tanh.cpp.o
+.PHONY : src/Tanh.cpp.o
+
+src/Tanh.i: src/Tanh.cpp.i
+
+.PHONY : src/Tanh.i
+
+# target to preprocess a source file
+src/Tanh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Tanh.cpp.i
+.PHONY : src/Tanh.cpp.i
+
+src/Tanh.s: src/Tanh.cpp.s
+
+.PHONY : src/Tanh.s
+
+# target to generate assembly for a file
+src/Tanh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Tanh.cpp.s
+.PHONY : src/Tanh.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -259,6 +367,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... projetIA"
+	@echo "... src/Fonction_activation.o"
+	@echo "... src/Fonction_activation.i"
+	@echo "... src/Fonction_activation.s"
 	@echo "... src/Image.o"
 	@echo "... src/Image.i"
 	@echo "... src/Image.s"
@@ -268,6 +379,15 @@ help:
 	@echo "... src/Iris.o"
 	@echo "... src/Iris.i"
 	@echo "... src/Iris.s"
+	@echo "... src/Perceptron.o"
+	@echo "... src/Perceptron.i"
+	@echo "... src/Perceptron.s"
+	@echo "... src/Sigmoide.o"
+	@echo "... src/Sigmoide.i"
+	@echo "... src/Sigmoide.s"
+	@echo "... src/Tanh.o"
+	@echo "... src/Tanh.i"
+	@echo "... src/Tanh.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
