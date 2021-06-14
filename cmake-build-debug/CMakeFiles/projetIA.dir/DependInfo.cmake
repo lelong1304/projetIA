@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/long/CLionProjects/projetIA/src/Image.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/Image.cpp.o"
   "/Users/long/CLionProjects/projetIA/src/Input.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/Input.cpp.o"
   "/Users/long/CLionProjects/projetIA/src/Iris.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/Iris.cpp.o"
-  "/Users/long/CLionProjects/projetIA/src/Perceptron.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/Perceptron.cpp.o"
   "/Users/long/CLionProjects/projetIA/src/Sigmoide.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o"
   "/Users/long/CLionProjects/projetIA/src/Tanh.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/Tanh.cpp.o"
   "/Users/long/CLionProjects/projetIA/src/main.cpp" "/Users/long/CLionProjects/projetIA/cmake-build-debug/CMakeFiles/projetIA.dir/src/main.cpp.o"

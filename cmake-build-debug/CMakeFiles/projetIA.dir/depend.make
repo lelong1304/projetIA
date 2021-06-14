@@ -15,10 +15,6 @@ CMakeFiles/projetIA.dir/src/Iris.cpp.o: ../src/Input.h
 CMakeFiles/projetIA.dir/src/Iris.cpp.o: ../src/Iris.cpp
 CMakeFiles/projetIA.dir/src/Iris.cpp.o: ../src/Iris.h
 
-CMakeFiles/projetIA.dir/src/Perceptron.cpp.o: ../src/Input.h
-CMakeFiles/projetIA.dir/src/Perceptron.cpp.o: ../src/Perceptron.cpp
-CMakeFiles/projetIA.dir/src/Perceptron.cpp.o: ../src/Perceptron.h
-
 CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o: ../src/Fonction_activation.h
 CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o: ../src/Sigmoide.cpp
 CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o: ../src/Sigmoide.h

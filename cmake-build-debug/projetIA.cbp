@@ -104,12 +104,6 @@
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Iris.h">
 			<Option target="projetIA"/>
 		</Unit>
-		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron.cpp">
-			<Option target="projetIA"/>
-		</Unit>
-		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron.h">
-			<Option target="projetIA"/>
-		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Sigmoide.cpp">
 			<Option target="projetIA"/>
 		</Unit>

@@ -6,33 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/Users/long/CLionProjects/projetIA/src/Image.cpp
-fstream
--
-iostream
--
-string
--
-Image.h
-/Users/long/CLionProjects/projetIA/src/Image.h
-
-/Users/long/CLionProjects/projetIA/src/Image.h
-Input.h
-/Users/long/CLionProjects/projetIA/src/Input.h
-
-/Users/long/CLionProjects/projetIA/src/Input.h
-
-/Users/long/CLionProjects/projetIA/src/Iris.cpp
-iostream
--
-fstream
--
-string
--
-Iris.h
-/Users/long/CLionProjects/projetIA/src/Iris.h
-
-/Users/long/CLionProjects/projetIA/src/Iris.h
-Input.h
-/Users/long/CLionProjects/projetIA/src/Input.h
-
