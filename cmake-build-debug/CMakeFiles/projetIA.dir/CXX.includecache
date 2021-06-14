@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+math.h
+/Users/long/CLionProjects/projetIA/src/math.h
+
+/Users/long/CLionProjects/projetIA/src/Image.h
+Input.h
+/Users/long/CLionProjects/projetIA/src/Input.h
+
+/Users/long/CLionProjects/projetIA/src/Input.h
+
+/Users/long/CLionProjects/projetIA/src/Iris.h
+Input.h
+/Users/long/CLionProjects/projetIA/src/Input.h
+
+/Users/long/CLionProjects/projetIA/src/Perceptron.h
+Input.h
+/Users/long/CLionProjects/projetIA/src/Input.h
+Fonction_activation.h
+/Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+
+/Users/long/CLionProjects/projetIA/src/Tanh.h
+Fonction_activation.h
+/Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+
+/Users/long/CLionProjects/projetIA/src/main.cpp
+iostream
+-
+Iris.h
+/Users/long/CLionProjects/projetIA/src/Iris.h
+Input.h
+/Users/long/CLionProjects/projetIA/src/Input.h
+Image.h
+/Users/long/CLionProjects/projetIA/src/Image.h
+Tanh.h
+/Users/long/CLionProjects/projetIA/src/Tanh.h
+Perceptron.h
+/Users/long/CLionProjects/projetIA/src/Perceptron.h
+

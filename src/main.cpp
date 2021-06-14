@@ -2,8 +2,11 @@
 #include "Iris.h"
 #include "Input.h"
 #include "Image.h"
-using namespace std;
+#include "Tanh.h"
+#include "Perceptron.h"
 
+using namespace std;
+/*
 int main() {
     std::cout << "Hello, World!" << std::endl;
     Iris ir(112);
@@ -12,12 +15,12 @@ int main() {
     cout<<image.get_label()<<endl;
     return 0;
 }
-
-// test Perceptron
-//int main() {
-//    Tanh* f = new Tanh();
-//    Perceptron* p = new Perceptron(12, f, '1');
-//    for (int i=0; i<12; i++) {
-//        cout << i << ": " << p->get_poids(i) << '\n';
-//    }
-//}
+*/
+ //test Perceptron
+int main() {
+    Tanh* f = new Tanh();
+    Perceptron* p = new Perceptron(12, f, '1');
+    for (int i=0; i<12; i++) {
+        cout << i << ": " << p->get_poids(i) << '\n';
+    }
+}

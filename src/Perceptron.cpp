@@ -66,3 +66,7 @@ void Perceptron::backprop(Input & input, double pas_de_gradient){
         }
     }
 }
+
+char Perceptron::getLabel() {
+    return label;
+}

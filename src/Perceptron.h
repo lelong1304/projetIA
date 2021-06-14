@@ -24,6 +24,7 @@ public:
     double calcul_delta(Input &);
     double get_delta();
     void backprop(Input &, double);
+    char getLabel();
 
 };
 

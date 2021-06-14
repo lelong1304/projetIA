@@ -250,6 +250,60 @@ src/Iris.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Iris.cpp.s
 .PHONY : src/Iris.cpp.s
 
+src/NN1.o: src/NN1.cpp.o
+
+.PHONY : src/NN1.o
+
+# target to build an object file
+src/NN1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN1.cpp.o
+.PHONY : src/NN1.cpp.o
+
+src/NN1.i: src/NN1.cpp.i
+
+.PHONY : src/NN1.i
+
+# target to preprocess a source file
+src/NN1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN1.cpp.i
+.PHONY : src/NN1.cpp.i
+
+src/NN1.s: src/NN1.cpp.s
+
+.PHONY : src/NN1.s
+
+# target to generate assembly for a file
+src/NN1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN1.cpp.s
+.PHONY : src/NN1.cpp.s
+
+src/Perceptron.o: src/Perceptron.cpp.o
+
+.PHONY : src/Perceptron.o
+
+# target to build an object file
+src/Perceptron.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.o
+.PHONY : src/Perceptron.cpp.o
+
+src/Perceptron.i: src/Perceptron.cpp.i
+
+.PHONY : src/Perceptron.i
+
+# target to preprocess a source file
+src/Perceptron.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.i
+.PHONY : src/Perceptron.cpp.i
+
+src/Perceptron.s: src/Perceptron.cpp.s
+
+.PHONY : src/Perceptron.s
+
+# target to generate assembly for a file
+src/Perceptron.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.s
+.PHONY : src/Perceptron.cpp.s
+
 src/Sigmoide.o: src/Sigmoide.cpp.o
 
 .PHONY : src/Sigmoide.o
@@ -352,6 +406,12 @@ help:
 	@echo "... src/Iris.o"
 	@echo "... src/Iris.i"
 	@echo "... src/Iris.s"
+	@echo "... src/NN1.o"
+	@echo "... src/NN1.i"
+	@echo "... src/NN1.s"
+	@echo "... src/Perceptron.o"
+	@echo "... src/Perceptron.i"
+	@echo "... src/Perceptron.s"
 	@echo "... src/Sigmoide.o"
 	@echo "... src/Sigmoide.i"
 	@echo "... src/Sigmoide.s"
