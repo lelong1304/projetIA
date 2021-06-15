@@ -7,8 +7,6 @@
 
 #include "Image.h"
 using namespace std;
-string image_path = "../resources/MNIST_training/";
-string label_path = "../resources/MNIST_training/train-labels.idx1-ubyte";
 const int PIXEL_SIZE = 28;
 
 Image::Image(int index) {
@@ -25,7 +23,7 @@ Image::Image(int index) {
     } else {
         cout << "ERROR: label image lecture" << endl;
     }
-    if (image_input) {
+    if (image_input.is_open()) {
         image_input.seekg(1078,image_input.cur);
         // Image contains 28*28 pixels
         for (int i = 0; i < PIXEL_SIZE; i++) {

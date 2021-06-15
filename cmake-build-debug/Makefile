@@ -223,6 +223,33 @@ src/Input.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Input.cpp.s
 .PHONY : src/Input.cpp.s
 
+src/Input_intermediaire.o: src/Input_intermediaire.cpp.o
+
+.PHONY : src/Input_intermediaire.o
+
+# target to build an object file
+src/Input_intermediaire.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Input_intermediaire.cpp.o
+.PHONY : src/Input_intermediaire.cpp.o
+
+src/Input_intermediaire.i: src/Input_intermediaire.cpp.i
+
+.PHONY : src/Input_intermediaire.i
+
+# target to preprocess a source file
+src/Input_intermediaire.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Input_intermediaire.cpp.i
+.PHONY : src/Input_intermediaire.cpp.i
+
+src/Input_intermediaire.s: src/Input_intermediaire.cpp.s
+
+.PHONY : src/Input_intermediaire.s
+
+# target to generate assembly for a file
+src/Input_intermediaire.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Input_intermediaire.cpp.s
+.PHONY : src/Input_intermediaire.cpp.s
+
 src/Iris.o: src/Iris.cpp.o
 
 .PHONY : src/Iris.o
@@ -277,6 +304,33 @@ src/NN1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN1.cpp.s
 .PHONY : src/NN1.cpp.s
 
+src/NN2.o: src/NN2.cpp.o
+
+.PHONY : src/NN2.o
+
+# target to build an object file
+src/NN2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN2.cpp.o
+.PHONY : src/NN2.cpp.o
+
+src/NN2.i: src/NN2.cpp.i
+
+.PHONY : src/NN2.i
+
+# target to preprocess a source file
+src/NN2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN2.cpp.i
+.PHONY : src/NN2.cpp.i
+
+src/NN2.s: src/NN2.cpp.s
+
+.PHONY : src/NN2.s
+
+# target to generate assembly for a file
+src/NN2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/NN2.cpp.s
+.PHONY : src/NN2.cpp.s
+
 src/Perceptron.o: src/Perceptron.cpp.o
 
 .PHONY : src/Perceptron.o
@@ -303,6 +357,33 @@ src/Perceptron.s: src/Perceptron.cpp.s
 src/Perceptron.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron.cpp.s
 .PHONY : src/Perceptron.cpp.s
+
+src/Perceptron_cachee.o: src/Perceptron_cachee.cpp.o
+
+.PHONY : src/Perceptron_cachee.o
+
+# target to build an object file
+src/Perceptron_cachee.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron_cachee.cpp.o
+.PHONY : src/Perceptron_cachee.cpp.o
+
+src/Perceptron_cachee.i: src/Perceptron_cachee.cpp.i
+
+.PHONY : src/Perceptron_cachee.i
+
+# target to preprocess a source file
+src/Perceptron_cachee.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron_cachee.cpp.i
+.PHONY : src/Perceptron_cachee.cpp.i
+
+src/Perceptron_cachee.s: src/Perceptron_cachee.cpp.s
+
+.PHONY : src/Perceptron_cachee.s
+
+# target to generate assembly for a file
+src/Perceptron_cachee.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/projetIA.dir/build.make CMakeFiles/projetIA.dir/src/Perceptron_cachee.cpp.s
+.PHONY : src/Perceptron_cachee.cpp.s
 
 src/Sigmoide.o: src/Sigmoide.cpp.o
 
@@ -403,15 +484,24 @@ help:
 	@echo "... src/Input.o"
 	@echo "... src/Input.i"
 	@echo "... src/Input.s"
+	@echo "... src/Input_intermediaire.o"
+	@echo "... src/Input_intermediaire.i"
+	@echo "... src/Input_intermediaire.s"
 	@echo "... src/Iris.o"
 	@echo "... src/Iris.i"
 	@echo "... src/Iris.s"
 	@echo "... src/NN1.o"
 	@echo "... src/NN1.i"
 	@echo "... src/NN1.s"
+	@echo "... src/NN2.o"
+	@echo "... src/NN2.i"
+	@echo "... src/NN2.s"
 	@echo "... src/Perceptron.o"
 	@echo "... src/Perceptron.i"
 	@echo "... src/Perceptron.s"
+	@echo "... src/Perceptron_cachee.o"
+	@echo "... src/Perceptron_cachee.i"
+	@echo "... src/Perceptron_cachee.s"
 	@echo "... src/Sigmoide.o"
 	@echo "... src/Sigmoide.i"
 	@echo "... src/Sigmoide.s"

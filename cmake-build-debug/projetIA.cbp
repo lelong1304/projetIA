@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Apprentissage.h">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Apprentissage.tpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Apprentissage2.h">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Apprentissage2.tpp">
+			<Option target="projetIA"/>
+		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Fonction_activation.cpp">
 			<Option target="projetIA"/>
 		</Unit>
@@ -98,6 +110,12 @@
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Input.h">
 			<Option target="projetIA"/>
 		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Input_intermediaire.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Input_intermediaire.h">
+			<Option target="projetIA"/>
+		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Iris.cpp">
 			<Option target="projetIA"/>
 		</Unit>
@@ -110,10 +128,22 @@
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/NN1.h">
 			<Option target="projetIA"/>
 		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/NN2.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/NN2.h">
+			<Option target="projetIA"/>
+		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron.cpp">
 			<Option target="projetIA"/>
 		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron.h">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron_cachee.cpp">
+			<Option target="projetIA"/>
+		</Unit>
+		<Unit filename="/Users/long/CLionProjects/projetIA/src/Perceptron_cachee.h">
 			<Option target="projetIA"/>
 		</Unit>
 		<Unit filename="/Users/long/CLionProjects/projetIA/src/Sigmoide.cpp">

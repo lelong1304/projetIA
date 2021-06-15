@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/Users/long/CLionProjects/projetIA/src/Apprentissage.h
+NN1.h
+/Users/long/CLionProjects/projetIA/src/NN1.h
+time.h
+-
+stdlib.h
+-
+Apprentissage.tpp
+/Users/long/CLionProjects/projetIA/src/Apprentissage.tpp
+
+/Users/long/CLionProjects/projetIA/src/Apprentissage.tpp
+
 /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
 math.h
 /Users/long/CLionProjects/projetIA/src/math.h
@@ -20,9 +32,23 @@ Input.h
 Input.h
 /Users/long/CLionProjects/projetIA/src/Input.h
 
+/Users/long/CLionProjects/projetIA/src/NN1.h
+Fonction_activation.h
+/Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+Input.h
+/Users/long/CLionProjects/projetIA/src/Input.h
+Perceptron.h
+/Users/long/CLionProjects/projetIA/src/Perceptron.h
+vector
+-
+
 /Users/long/CLionProjects/projetIA/src/Perceptron.h
 Input.h
 /Users/long/CLionProjects/projetIA/src/Input.h
+Fonction_activation.h
+/Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+
+/Users/long/CLionProjects/projetIA/src/Sigmoide.h
 Fonction_activation.h
 /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
 
@@ -43,4 +69,10 @@ Tanh.h
 /Users/long/CLionProjects/projetIA/src/Tanh.h
 Perceptron.h
 /Users/long/CLionProjects/projetIA/src/Perceptron.h
+NN1.h
+/Users/long/CLionProjects/projetIA/src/NN1.h
+Apprentissage.h
+/Users/long/CLionProjects/projetIA/src/Apprentissage.h
+Sigmoide.h
+/Users/long/CLionProjects/projetIA/src/Sigmoide.h
 

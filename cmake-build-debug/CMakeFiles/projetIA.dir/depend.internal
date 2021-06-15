@@ -11,15 +11,40 @@ CMakeFiles/projetIA.dir/src/Image.cpp.o
 CMakeFiles/projetIA.dir/src/Input.cpp.o
  /Users/long/CLionProjects/projetIA/src/Input.cpp
  /Users/long/CLionProjects/projetIA/src/Input.h
+CMakeFiles/projetIA.dir/src/Input_intermediaire.cpp.o
+ /Users/long/CLionProjects/projetIA/src/Input.h
+ /Users/long/CLionProjects/projetIA/src/Input_intermediaire.cpp
+ /Users/long/CLionProjects/projetIA/src/Input_intermediaire.h
 CMakeFiles/projetIA.dir/src/Iris.cpp.o
  /Users/long/CLionProjects/projetIA/src/Input.h
  /Users/long/CLionProjects/projetIA/src/Iris.cpp
  /Users/long/CLionProjects/projetIA/src/Iris.h
+CMakeFiles/projetIA.dir/src/NN1.cpp.o
+ /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+ /Users/long/CLionProjects/projetIA/src/Input.h
+ /Users/long/CLionProjects/projetIA/src/NN1.cpp
+ /Users/long/CLionProjects/projetIA/src/NN1.h
+ /Users/long/CLionProjects/projetIA/src/Perceptron.h
+ /Users/long/CLionProjects/projetIA/src/Tanh.h
+CMakeFiles/projetIA.dir/src/NN2.cpp.o
+ /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+ /Users/long/CLionProjects/projetIA/src/Input.h
+ /Users/long/CLionProjects/projetIA/src/Input_intermediaire.h
+ /Users/long/CLionProjects/projetIA/src/NN2.cpp
+ /Users/long/CLionProjects/projetIA/src/NN2.h
+ /Users/long/CLionProjects/projetIA/src/Perceptron.h
+ /Users/long/CLionProjects/projetIA/src/Perceptron_cachee.h
 CMakeFiles/projetIA.dir/src/Perceptron.cpp.o
  /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
  /Users/long/CLionProjects/projetIA/src/Input.h
  /Users/long/CLionProjects/projetIA/src/Perceptron.cpp
  /Users/long/CLionProjects/projetIA/src/Perceptron.h
+CMakeFiles/projetIA.dir/src/Perceptron_cachee.cpp.o
+ /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
+ /Users/long/CLionProjects/projetIA/src/Input.h
+ /Users/long/CLionProjects/projetIA/src/Perceptron.h
+ /Users/long/CLionProjects/projetIA/src/Perceptron_cachee.cpp
+ /Users/long/CLionProjects/projetIA/src/Perceptron_cachee.h
 CMakeFiles/projetIA.dir/src/Sigmoide.cpp.o
  /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
  /Users/long/CLionProjects/projetIA/src/Sigmoide.cpp
@@ -29,10 +54,14 @@ CMakeFiles/projetIA.dir/src/Tanh.cpp.o
  /Users/long/CLionProjects/projetIA/src/Tanh.cpp
  /Users/long/CLionProjects/projetIA/src/Tanh.h
 CMakeFiles/projetIA.dir/src/main.cpp.o
+ /Users/long/CLionProjects/projetIA/src/Apprentissage.h
+ /Users/long/CLionProjects/projetIA/src/Apprentissage.tpp
  /Users/long/CLionProjects/projetIA/src/Fonction_activation.h
  /Users/long/CLionProjects/projetIA/src/Image.h
  /Users/long/CLionProjects/projetIA/src/Input.h
  /Users/long/CLionProjects/projetIA/src/Iris.h
+ /Users/long/CLionProjects/projetIA/src/NN1.h
  /Users/long/CLionProjects/projetIA/src/Perceptron.h
+ /Users/long/CLionProjects/projetIA/src/Sigmoide.h
  /Users/long/CLionProjects/projetIA/src/Tanh.h
  /Users/long/CLionProjects/projetIA/src/main.cpp

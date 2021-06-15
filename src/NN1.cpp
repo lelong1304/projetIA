@@ -33,6 +33,6 @@ void NN1::apprentissage(Input &input, double x) {
     for (int i=0; i<length;i++){
         perceptrons[i]->calcul_delta(input);
         perceptrons[i]->backprop(input, x);
-        cout << "Perceptron:" << perceptrons[i]->getLabel() << ", Input label:" << input.get_label() << endl;
+        //cout << "Perceptron:" << perceptrons[i]->getLabel() << ", Input label:" << input.get_label() << endl;
     }
 }

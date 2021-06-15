@@ -18,7 +18,7 @@ Iris::Iris(int index) {
         iris_input>>flower[2]>>tmp;
         iris_input>>flower[3]>>tmp;
         iris_input>>flowerLabel;
-        cout<<flowerLabel<<endl;
+        //cout<<flowerLabel<<endl;
         if(flowerLabel=="Iris-virginica"){
             set_label('1');
         }
@@ -31,7 +31,7 @@ Iris::Iris(int index) {
     } else {
         cout << "ERROR: label iris file lecture" << endl;
     }
-    cout<<"label : "<<get_label()<<endl;
+    //cout<<"label : "<<get_label()<<endl;
     iris_input.close();
 }
 double Iris::operator[](int index) {
